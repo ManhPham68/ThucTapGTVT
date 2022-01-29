@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="11aae36e-396b-4103-817c-f15ff06484aa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/views/admins/sanpham/cart.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/blog-detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/css/util.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/Montserrat/Montserrat-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/Montserrat/Montserrat-BlackItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/Montserrat/Montserrat-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/Montserrat/Montserrat-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/Montserrat/Montserrat-ExtraBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/Montserrat/Montserrat-ExtraBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/Montserrat/Montserrat-ExtraLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/Montserrat/Montserrat-ExtraLightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/Montserrat/Montserrat-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/Montserrat/Montserrat-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/Montserrat/Montserrat-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/Montserrat/Montserrat-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/Montserrat/Montserrat-MediumItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/Montserrat/Montserrat-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/Montserrat/Montserrat-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/Montserrat/Montserrat-SemiBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/Montserrat/Montserrat-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/Montserrat/Montserrat-ThinItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/Montserrat/OFL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/PlayfairDisplay/OFL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/PlayfairDisplay/PlayfairDisplay-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/PlayfairDisplay/PlayfairDisplay-BlackItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/PlayfairDisplay/PlayfairDisplay-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/PlayfairDisplay/PlayfairDisplay-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/PlayfairDisplay/PlayfairDisplay-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/PlayfairDisplay/PlayfairDisplay-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/Poppins/Poppins-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/Poppins/Poppins-BlackItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/Poppins/Poppins-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/Poppins/Poppins-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/Poppins/Poppins-ExtraBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/Poppins/Poppins-ExtraBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/Poppins/Poppins-ExtraLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/Poppins/Poppins-ExtraLightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/Poppins/Poppins-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/Poppins/Poppins-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/Poppins/Poppins-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/Poppins/Poppins-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/Poppins/Poppins-MediumItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/Poppins/Poppins-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/Poppins/Poppins-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/Poppins/Poppins-SemiBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/Poppins/Poppins-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/Poppins/Poppins-ThinItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/font-awesome-4.7.0/HELP-US-OUT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/font-awesome-4.7.0/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/font-awesome-4.7.0/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/font-awesome-4.7.0/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/font-awesome-4.7.0/less/animated.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/font-awesome-4.7.0/less/bordered-pulled.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/font-awesome-4.7.0/less/core.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/font-awesome-4.7.0/less/fixed-width.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/font-awesome-4.7.0/less/font-awesome.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/font-awesome-4.7.0/less/icons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/font-awesome-4.7.0/less/larger.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/font-awesome-4.7.0/less/list.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/font-awesome-4.7.0/less/mixins.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/font-awesome-4.7.0/less/path.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/font-awesome-4.7.0/less/rotated-flipped.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/font-awesome-4.7.0/less/screen-reader.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/font-awesome-4.7.0/less/stacked.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/font-awesome-4.7.0/less/variables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/font-awesome-4.7.0/scss/_animated.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/font-awesome-4.7.0/scss/_bordered-pulled.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/font-awesome-4.7.0/scss/_core.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/font-awesome-4.7.0/scss/_fixed-width.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/font-awesome-4.7.0/scss/_icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/font-awesome-4.7.0/scss/_larger.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/font-awesome-4.7.0/scss/_list.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/font-awesome-4.7.0/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/font-awesome-4.7.0/scss/_path.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/font-awesome-4.7.0/scss/_rotated-flipped.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/font-awesome-4.7.0/scss/_screen-reader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/font-awesome-4.7.0/scss/_stacked.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/font-awesome-4.7.0/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/font-awesome-4.7.0/scss/font-awesome.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/iconic/css/material-design-iconic-font.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/iconic/css/material-design-iconic-font.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/iconic/fonts/Material-Design-Iconic-Font.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/iconic/fonts/Material-Design-Iconic-Font.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/iconic/fonts/Material-Design-Iconic-Font.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/iconic/fonts/Material-Design-Iconic-Font.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/iconic/fonts/Material-Design-Iconic-Font.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/linearicons-v1.0.0/WebFont/Linearicons-Free.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/linearicons-v1.0.0/WebFont/Linearicons-Free.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/linearicons-v1.0.0/WebFont/Linearicons-Free.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/linearicons-v1.0.0/WebFont/Linearicons-Free.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/linearicons-v1.0.0/WebFont/Linearicons-Free.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/fonts/linearicons-v1.0.0/icon-font.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/home-02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/home-03.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/about-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/about-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/avatar-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/banner-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/banner-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/banner-03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/banner-04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/banner-05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/banner-06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/banner-07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/banner-08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/banner-09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/bg-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/bg-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/blog-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/blog-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/blog-03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/blog-04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/blog-05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/blog-06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/gallery-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/gallery-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/gallery-03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/gallery-04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/gallery-05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/gallery-06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/gallery-07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/gallery-08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/gallery-09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/icons/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/icons/icon-close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/icons/icon-close2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/icons/icon-email.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/icons/icon-heart-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/icons/icon-heart-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/icons/icon-next.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/icons/icon-pay-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/icons/icon-pay-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/icons/icon-pay-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/icons/icon-pay-04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/icons/icon-pay-05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/icons/icon-prev.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/icons/logo-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/icons/logo-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/icons/pin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/item-cart-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/item-cart-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/item-cart-03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/item-cart-04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/item-cart-05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/product-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/product-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/product-03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/product-04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/product-05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/product-06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/product-07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/product-08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/product-09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/product-10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/product-11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/product-12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/product-13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/product-14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/product-15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/product-16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/product-detail-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/product-detail-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/product-detail-03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/product-min-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/product-min-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/product-min-03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/slide-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/slide-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/slide-03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/slide-04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/slide-05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/slide-06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/slide-07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/thumb-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/thumb-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/images/thumb-03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/js/map-custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/js/slick-custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/product-detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/product.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/shoping-cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/MagnificPopup/jquery.magnific-popup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/MagnificPopup/jquery.magnific-popup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/MagnificPopup/magnific-popup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/animate/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/animsition/css/animsition.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/animsition/css/animsition.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/animsition/js/animsition.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/animsition/js/animsition.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/bootstrap/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/bootstrap/js/popper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/bootstrap/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/bootstrap/js/tooltip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/countdowntime/countdowntime.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/css-hamburgers/hamburgers.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/css-hamburgers/hamburgers.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/daterangepicker/daterangepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/daterangepicker/daterangepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/daterangepicker/moment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/daterangepicker/moment.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/isotope/isotope.pkgd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/jquery/jquery-3.2.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/jqueryui/external/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/jqueryui/images/ui-icons_444444_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/jqueryui/images/ui-icons_555555_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/jqueryui/images/ui-icons_777620_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/jqueryui/images/ui-icons_777777_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/jqueryui/images/ui-icons_cc0000_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/jqueryui/images/ui-icons_ffffff_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/jqueryui/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/jqueryui/jquery-ui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/jqueryui/jquery-ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/jqueryui/jquery-ui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/jqueryui/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/jqueryui/jquery-ui.structure.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/jqueryui/jquery-ui.structure.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/jqueryui/jquery-ui.theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/jqueryui/jquery-ui.theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/lightbox2/css/lightbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/lightbox2/css/lightbox.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/lightbox2/images/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/lightbox2/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/lightbox2/images/next.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/lightbox2/images/prev.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/lightbox2/js/lightbox-plus-jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/lightbox2/js/lightbox-plus-jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/lightbox2/js/lightbox-plus-jquery.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/lightbox2/js/lightbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/lightbox2/js/lightbox.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/lightbox2/js/lightbox.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/parallax100/parallax100.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/perfect-scrollbar/perfect-scrollbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/perfect-scrollbar/perfect-scrollbar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/select2/select2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/select2/select2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/select2/select2.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/select2/select2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/slick/ajax-loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/slick/config.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/slick/fonts/slick.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/slick/fonts/slick.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/slick/fonts/slick.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/slick/fonts/slick.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/slick/slick-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/slick/slick-theme.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/slick/slick-theme.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/slick/slick.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/slick/slick.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/slick/slick.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/slick/slick.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/slick/slick.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/public/frontend/vendor/sweetalert/sweetalert.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/resources/views/components/footer.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/resources/views/components/header.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/resources/views/home/ajaxSearch.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/resources/views/home/components/slider.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/resources/views/home/home.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopdienthoaiui/resources/views/layouts/master.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/AdminController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/AdminController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/AdminRoleController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/AdminRoleController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/AdminSanPhamController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/AdminSanPhamController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/HangSanXuatController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/HangSanXuatController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/LoaiSanPhamController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/LoaiSanPhamController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admins/hangsanxuat/trangchu.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admins/hangsanxuat/trangchu.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admins/layouts/admin.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admins/layouts/admin.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admins/loaisanpham/trangchu.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admins/loaisanpham/trangchu.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admins/login.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admins/login.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admins/partials/header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admins/partials/header.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admins/role/trangchu.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admins/role/trangchu.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admins/sanpham/chitiet.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admins/sanpham/chitiet.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admins/sanpham/sua.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admins/sanpham/sua.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admins/sanpham/trangchu.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admins/sanpham/trangchu.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admins/sliders/trangchu.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admins/sliders/trangchu.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admins/user/sua.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admins/user/sua.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admins/user/trangchu.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admins/user/trangchu.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php81" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/fakerphp/faker" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/fruitcake/laravel-cors" />
+      <path value="$PROJECT_DIR$/vendor/intervention/image" />
+      <path value="$PROJECT_DIR$/vendor/unisharp/laravel-filemanager" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/deprecations" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="2082rjA8rDThSJWuE8dOPr2gNwB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Xampp\htdocs\CNPM\shopdienthoailaravel\public\vendor\admin" />
+      <recent name="F:\Xampp\htdocs\CNPM\shopdienthoailaravel\resources\views\admins\partials" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Xampp\htdocs\CNPM\shopdienthoailaravel\public" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" editBeforeRun="true">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11aae36e-396b-4103-817c-f15ff06484aa" name="Default Changelist" comment="" />
+      <created>1635412094865</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635412094865</updated>
+      <workItem from="1635412095913" duration="45493000" />
+      <workItem from="1635590284671" duration="10443000" />
+      <workItem from="1635937392190" duration="771000" />
+      <workItem from="1635947792866" duration="333000" />
+      <workItem from="1636080350526" duration="226000" />
+      <workItem from="1636081625505" duration="1314000" />
+      <workItem from="1636168018598" duration="15342000" />
+      <workItem from="1636338945436" duration="25839000" />
+      <workItem from="1636378743213" duration="7321000" />
+      <workItem from="1636391841139" duration="6229000" />
+      <workItem from="1636648043115" duration="5215000" />
+      <workItem from="1636717006872" duration="252000" />
+      <workItem from="1636960863572" duration="1200000" />
+      <workItem from="1637154136153" duration="8381000" />
+      <workItem from="1637212691479" duration="23797000" />
+      <workItem from="1637252848012" duration="681000" />
+      <workItem from="1637287829500" duration="8008000" />
+      <workItem from="1637561044724" duration="714000" />
+      <workItem from="1637740974400" duration="22348000" />
+      <workItem from="1638024373009" duration="2403000" />
+      <workItem from="1638032903501" duration="6246000" />
+      <workItem from="1638802448877" duration="1191000" />
+      <workItem from="1639038390751" duration="14401000" />
+      <workItem from="1639103019075" duration="15728000" />
+      <workItem from="1641375941754" duration="215000" />
+      <workItem from="1643428871057" duration="336000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="674" y="162" key="#PHP" timestamp="1635598738433">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="674" y="162" key="#PHP/0.0.1920.1040@0.0.1920.1040" timestamp="1635598738433" />
+    <state x="727" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1637247617898">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="727" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1637247617898" />
+    <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser" timestamp="1636365269196">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1636365269196" />
+    <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1635603263749" />
+    <state x="690" y="274" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1638034035985">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="274" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1638034035985" />
+    <state x="690" y="274" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1635603232364" />
+    <state x="1127" y="301" key="FileChooserDialogImpl" timestamp="1639103221478">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1127" y="301" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1639103221478" />
+    <state x="1127" y="301" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1635419997733" />
+    <state width="1340" height="266" key="GridCell.Tab.0.bottom" timestamp="1635412351744">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1635412351744" />
+    <state width="1340" height="266" key="GridCell.Tab.0.center" timestamp="1635412351744">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1635412351744" />
+    <state width="1340" height="266" key="GridCell.Tab.0.left" timestamp="1635412351744">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1635412351744" />
+    <state width="1340" height="266" key="GridCell.Tab.0.right" timestamp="1635412351744">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1635412351744" />
+    <state x="801" y="423" key="NewPhpFileDialog" timestamp="1636172326660">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="801" y="423" key="NewPhpFileDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1636172326660" />
+    <state x="801" y="423" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1635414461812" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1636382255920">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1636382255920" />
+    <state x="630" y="219" width="672" height="678" key="search.everywhere.popup" timestamp="1637747906365">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="630" y="219" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1637747906365" />
+    <state x="630" y="219" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1635591156071" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/resources/views/welcome.blade.php</url>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
